@@ -27,6 +27,12 @@ body {
     text-align: center;
 }
 
+.bottom-frame {
+    font-size: 11px; 
+    text-align: center;
+    margin-top: 5px; 
+}
+
 .qr-image {
     width: 248px;
     height: 245px;
