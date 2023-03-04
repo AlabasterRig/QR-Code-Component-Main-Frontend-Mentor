@@ -27,8 +27,8 @@ body {
     text-align: center;
 }
 
-.bottom-frame {
-    font-size: 11px; 
+footer {
+    font-size: 12px; 
     text-align: center;
     margin: 0; 
     background-color: hsl(212, 45%, 89%);
