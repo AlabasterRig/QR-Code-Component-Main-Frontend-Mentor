@@ -63,7 +63,7 @@ I learned how to use the viewport height attribute and how to centre a div withi
 
 ### Continued development
 
-I learned how to centre a div in a different way. I had to use attributes that i had ever used before, and I would like to continue learning nw things like this in the future.
+I learned how to centre a div in a different way. I had to use attributes that I had never used before, and I would like to continue learning new things like this in the future.
 
 ### Useful resources
 
